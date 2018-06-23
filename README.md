@@ -1,1 +1,1 @@
-# pirates-admin
+# royel-admin
